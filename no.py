@@ -2,4 +2,4 @@
 
 #added something but din't work
 print("do nothing")
-print("same as")
+print("same as") // print("nothing")
